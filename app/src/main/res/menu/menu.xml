@@ -13,6 +13,10 @@
         android:icon="@drawable/ic_save_white_48dp"
         app:showAsAction="ifRoom"/>
 
+    <item android:title=""
+        android:id="@+id/load"
+        android:icon="@drawable/ic_settings_white_48dp"
+        app:showAsAction="ifRoom"/>
 
 
 </menu>
